@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "F:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\oku_d\\AppData\\Local\\Arduino15\\packages\\STM32\\tools\\**",
+                "C:\\Users\\oku_d\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.8.0\\**",
+                "${workspaceFolder}/**",
+                "F:\\Program Files (x86)\\Arduino\\tools\\**",
+                "F:\\Program Files (x86)\\Arduino\\hardware\\**",
+                "F:\\Program Files (x86)\\Arduino\\libraries\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "F:\\Program Files\\MinGW\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}",
+            "forcedInclude": [
+                "C:\\Users\\oku_d\\AppData\\Local\\Arduino15\\packages\\STM32\\hardware\\stm32\\1.8.0\\cores\\arduino\\Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}

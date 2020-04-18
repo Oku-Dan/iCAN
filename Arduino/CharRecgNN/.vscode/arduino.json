@@ -1,0 +1,7 @@
+{
+    "board": "STM32:stm32:GenF1",
+    "configuration": "pnum=BLUEPILL_F103C8,upload_method=dfu2Method,xserial=generic,usb=none,xusb=FS,opt=osstd,rtlib=nano",
+    "programmer": "AVR ISP",
+    "port": "COM1",
+    "sketch": "CharRecgNN.ino"
+}
